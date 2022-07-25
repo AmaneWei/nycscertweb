@@ -7,14 +7,14 @@ My name is Amanda Wei Lee but feel free to call me Wei :)
 
 
 ![giphy](https://user-images.githubusercontent.com/107557711/180843022-fc717034-f173-460d-ba95-63f63fac2052.gif) 
-## Programming (Java)
+### Programming (Java)
 [Programming Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/programming)
 
 
-## Data Structures
+### Data Structures
 
 [DS Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/ds)
 
 
-## Methods
+### Methods
 [Methods Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/methods)
