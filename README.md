@@ -5,6 +5,8 @@
 ## hello there
 My name is Amanda Wei Lee but feel free to call me Wei :)
 
+---
+
 ## Programming (Java)
 [Programming Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/programming)
 
