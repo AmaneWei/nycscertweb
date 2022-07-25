@@ -22,7 +22,11 @@ My name is Amanda Wei Lee but feel free to call me `Wei` :)
 ---
 ### To do
 - [x] Finish task
-![tis100-sad](https://user-images.githubusercontent.com/107557711/180846012-47ba9933-d40d-40a1-9b11-a96abaf0170b.gif)
+![done-and-done-spongebob](https://user-images.githubusercontent.com/107557711/180846213-685eea7e-396a-411b-9b78-f13e227064fa.gif)
+
 - [ ] Wait for Aug 2
+![tis100-sad](https://user-images.githubusercontent.com/107557711/180846012-47ba9933-d40d-40a1-9b11-a96abaf0170b.gif)
+
 - [ ] Enjoy Summer
+![original](https://user-images.githubusercontent.com/107557711/180846392-5613e063-55a1-48ee-8605-4a4f8e0e4ff4.gif)
 
