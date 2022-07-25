@@ -19,7 +19,7 @@ My name is Amanda Wei Lee but feel free to call me `Wei` :)
 ### Methods
 [Methods Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/methods)
 
-
+---
 ### To do
 - [x] Finish task
 - [ ] Wait for Aug 2
