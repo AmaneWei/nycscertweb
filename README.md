@@ -22,7 +22,7 @@ My name is Amanda Wei Lee but feel free to call me `Wei` :)
 ---
 ### To do
 - [x] Finish task
-<img src="https://i.pinimg.com/originals/7f/31/f7/7f31f7fc4207b8baceb1fdb5dfe3aafe.gif" width=50% height=50%>
+<img src="https://i.pinimg.com/originals/7f/31/f7/7f31f7fc4207b8baceb1fdb5dfe3aafe.gif" width=10% height=10%>
 
 
 
