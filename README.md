@@ -21,7 +21,7 @@ My name is Amanda Wei Lee but feel free to call me `Wei` :)
 
 ---
 ### To do
-- [x] Finish task <img src="https://i.pinimg.com/originals/7f/31/f7/7f31f7fc4207b8baceb1fdb5dfe3aafe.gif" width=10% height=10%>
+- [x] Finish task <img src="https://i.pinimg.com/originals/7f/31/f7/7f31f7fc4207b8baceb1fdb5dfe3aafe.gif" width=30% height=30%>
 
 - [ ] Wait for Aug 2 <img src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width=30% height=30%>
 
