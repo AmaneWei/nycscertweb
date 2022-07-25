@@ -21,9 +21,11 @@ My name is Amanda Wei Lee but feel free to call me `Wei` :)
 
 ---
 ### To do
-- [x] Finish task <img src="https://i.pinimg.com/originals/7f/31/f7/7f31f7fc4207b8baceb1fdb5dfe3aafe.gif" width=30% height=30%>
-
-- [ ] Wait for Aug 2 <img src="https://c.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width=30% height=30%>
+- [x] Finish task ![ezgif-1-5331f7e836](https://user-images.githubusercontent.com/107557711/180853201-dad36b01-7cf2-4633-8b6c-9d7ba1ceeec0.gif)
 
 
-- [ ] Enjoy Summer <img src="https://data.whicdn.com/images/233370591/original.gif" width=30% height=30%>
+- [ ] Wait for Aug 2 ![ezgif-1-000fb0f921](https://user-images.githubusercontent.com/107557711/180853340-fa5eb1f3-5ab2-4ee9-b3bd-2e4df59f07c4.gif)
+
+
+
+- [ ] Enjoy Summer ![ezgif-1-66a6a53150](https://user-images.githubusercontent.com/107557711/180853390-fac5ea16-3dcd-4f49-ab6b-02283cf3e226.gif)
