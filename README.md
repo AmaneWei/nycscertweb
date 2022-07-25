@@ -6,4 +6,12 @@
 My name is Amanda Wei Lee but feel free to call me Wei :)
 
 ## Programming (Java)
-[This is a test](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/programming)
+[Programming Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/programming)
+
+
+## Data Structures
+[DS Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/ds)
+
+
+## Methods
+[Methods Folder](https://github.com/hunter-teacher-cert/cohort-3-summer-work-AmaneWei/tree/master/methods)
