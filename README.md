@@ -22,7 +22,8 @@ My name is Amanda Wei Lee but feel free to call me `Wei` :)
 ---
 ### To do
 - [x] Finish task
-![done-and-done-spongebob](https://user-images.githubusercontent.com/107557711/180846213-685eea7e-396a-411b-9b78-f13e227064fa.gif=100x20)
+<img src="https://giphy.com/explore/done" width="200" height="200">
+![done-and-done-spongebob](https://user-images.githubusercontent.com/107557711/180846213-685eea7e-396a-411b-9b78-f13e227064fa.gif)
 
 - [ ] Wait for Aug 2
 ![tis100-sad](https://user-images.githubusercontent.com/107557711/180846012-47ba9933-d40d-40a1-9b11-a96abaf0170b.gif)
